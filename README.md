@@ -98,11 +98,11 @@ You may (and are encouraged to!) work with 1-2 classmates on this make-up. They 
 
 If you choose to take advantage of this make-up you **must** email Ab and tell them that you plan to make-up the d3-portion of hw-03. In your email include who you are working with on the make-up. *Ab must receive this email by 5pm on 10/07/2021.* If you do not send an email by that deadline your make-up will not get graded or counted towards your grade. 
 
-**Grading** If you submit make-up work it will be evaluated from scratch, the same way that your original submission was evaluated. If the grade you get on your make-up is higher than your original grade, I will add half of the additional points you earned to your hw-03 grade. (Ex. If you got 10 out of 30 points on your original submission and get 30 out of 30 points on your make-up, I will add 10 points ((30 - 10)/2) to your hw-03 grade. If your make-up is lower than your original grade, your hw-03 grade will not be changed. 
+**Grading** If you submit make-up work it will be evaluated from scratch, the same way that your original submission was evaluated. If the grade you get on your make-up is higher than your original grade, I will add half of the additional points you earned to your hw-03 grade. (Ex. If you got 10 out of 30 points on your original submission and get 30 out of 30 points on your make-up, I will add 10 points ((30 - 10)/2) to your hw-03 grade.) If your make-up is lower than your original grade, your hw-03 grade will not be changed. 
 
 Instructions:   
 
-* Move your data file(s) from hw-03 into the data folder for this assignment.  
+* Copy your data file(s) from hw-03 into the data folder for this assignment.  
 
 * Add two new svg's to your starter code. These should be identical svg1 (the code for which was provided to you), but named svg2 and svg3.
 
